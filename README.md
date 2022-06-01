@@ -3,4 +3,4 @@
 Description
 -------------
 
-The following code is used to aggregate the cellranger output from VDJ libraries adfter performing paired TCR sequencing.
+The following code is used to aggregate cellranger output coming from VDJ libraries after performing paired TCR sequencing.
